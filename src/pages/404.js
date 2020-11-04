@@ -13,7 +13,7 @@ class RootIndex extends React.Component {
         <div style={{ background: '#fff' }}>
           <Helmet title={siteTitle} />
           <div className="wrapper">
-            <h2 className="section-headline">¡Ooops!, parece que este recurso no está disponible o fue deshabilitado. Por favor intenta más tarde.</h2>
+            <h2 className="section-headline">¡Ooops!, parece que este recurso no se encuentra. Por favor intenta más tarde.</h2>
           </div>
         </div>
       </Layout>
